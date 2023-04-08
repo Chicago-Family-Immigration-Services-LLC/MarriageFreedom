@@ -5,9 +5,3 @@ name = "javascript"
 
   [analyzers.meta]
   plugins = ["react"]
-
-[[transformers]]
-name = "prettier"
-
-[[transformers]]
-name = "standardjs"
