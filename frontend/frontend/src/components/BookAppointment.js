@@ -5,9 +5,7 @@ function BookAppointment () {
   return (
     <div>
       <Helmet>
-        <title>
-          Book An Appointment With A Top Attorney
-        </title>
+        <title>Book An Appointment With A Top Attorney</title>
         <meta
           name='description'
           content='Schedule a $199 consultation with experienced Illinois Attorneys.'
