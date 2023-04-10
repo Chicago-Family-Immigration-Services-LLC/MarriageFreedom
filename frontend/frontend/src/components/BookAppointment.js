@@ -6,11 +6,11 @@ function BookAppointment () {
     <div>
       <Helmet>
         <title>
-          Book an Appointment - Illinois Family Law & Divorce Attorneys
+          Book An Appointment With A Top Attorney
         </title>
         <meta
           name='description'
-          content='Schedule a $199 consultation with experienced Illinois family law and divorce attorneys for adoptions, child custody, child support, guardianship, order of protection, prenuptial agreements, postnuptial agreements, enforcement of judgments, alimony, spousal support, and legal separation cases.'
+          content='Schedule a $199 consultation with experienced Illinois Attorneys.'
         />
         <meta
           name='keywords'
